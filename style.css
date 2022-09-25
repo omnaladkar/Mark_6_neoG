@@ -13,7 +13,7 @@ textarea {
     display: block;
     margin: auto;
     padding: 1rem;
-    background-color: #000000;
+    background-color: #cd2d2d;
     font-family: 'Dancing Script', cursive;
     font-size: larger;
     border: solid;
@@ -34,7 +34,7 @@ textarea:focus{
 
 
 #output {
-    border: 1px black solid;
+    border: 1px rgb(192, 48, 48) solid;
     height: 10vh;
     padding: 1rem;
     max-width: 80%;
@@ -44,7 +44,7 @@ textarea:focus{
     border: solid;
     border-radius: 10px;
     margin-bottom: 2rem;
-    background-color: #000000;
+    background-color: #ae2d2d;
 }
 
 .heading {
